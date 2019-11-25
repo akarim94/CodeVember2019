@@ -12,6 +12,8 @@ public interface FilePath {
 	
 	public static final String OBJECTREPOSITORYPath = System.getProperty("user.dir")+"/src/Properties/Objects.properties";
 	
+	public static final String FileUploadPath= System.getProperty("user.dir")+"/FileUpload/";
+	
 	public static final String ScreenShotPath = System.getProperty("user.dir")+"/ScreenShot/";
 
 	

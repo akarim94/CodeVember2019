@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/bcprov-ext-jdk15on-156.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/com.lowagie.text-2.1.7.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/ibatis.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/iText-5.0.6.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/itextpdf-5.4.0.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/jcommon-1.0.22.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/jfreechart-1.0.13.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/jsch-0.1.42.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/mail.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/mysql-connector-java-5.1.38-bin.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/pdfbox-app-1.6.0.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-examples-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-excelant-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-ooxml-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-ooxml-schemas-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/poi-scratchpad-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/Robotil-1.10.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/saxon-8.7.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/saxon8-dom.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/SaxonLiaison.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/selenium-safari-driver-2.43.1.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/selenium-server-standalone-3.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/stalkr-death-by-captcha-0.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/testng-6.9.9.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/testng-xslt-maven-plugin-test-0.0.jar"/>
-	<classpathentry kind="lib" path="D:/Seleniumworkspace/CodeVember/JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/bcprov-ext-jdk15on-156.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/ibatis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/iText-5.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/jcommon-1.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/pdfbox-app-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/Robotil-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/saxon8-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/selenium-safari-driver-2.43.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/stalkr-death-by-captcha-0.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/testng-6.9.9.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t448536/git/CodeVember2019/CodeVember2019/JarFiles/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
