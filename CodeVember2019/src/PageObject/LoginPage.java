@@ -3,9 +3,10 @@ package PageObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import Base.BaseClass;
 import Base.PropertyReader;
 
-public class LoginPage {
+public class LoginPage extends BaseClass {
 
     private WebDriver driver;
     private static By by = null;
@@ -29,6 +30,7 @@ public class LoginPage {
 		return by;
 	}
     
+   
     public void setUsername(String username){
         driver.findElement(txt_username()).sendKeys(username);
     }

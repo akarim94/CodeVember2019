@@ -2,9 +2,11 @@ package PageObject;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import Base.BaseClass;
 import Base.PropertyReader;
 
-public class SecureAreaPage {
+public class SecureAreaPage extends BaseClass {
 
     private WebDriver driver;
     private static By by = null;
@@ -17,7 +19,7 @@ public class SecureAreaPage {
 		by = By.xpath(PropertyReader.readORProperty("LOC_MSG_Succ_Login"));
 		return by;
 	}
-
+   
     public String getSuccessMsgText(){
         return driver.findElement(msg_succss_login()).getText();
     }

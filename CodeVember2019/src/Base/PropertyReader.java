@@ -1,11 +1,11 @@
 package Base;
 
-public class PropertyReader extends BaseClass {
 
+public class PropertyReader extends BaseClass {
 
 	public  static String readORProperty(String key){
 		return OR.getProperty(key);
 		
-	}// end of method
+	      }// end of method
 
 }
