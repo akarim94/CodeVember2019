@@ -10,6 +10,11 @@ public class HomePage {
     public HomePage(WebDriver driver){
         this.driver = driver;
     }
+    
+    public ABTestPage clickABTesting(){
+        clickLink("A/B Testing");
+        return new ABTestPage(driver);
+    }
 
     public LoginPage clickFormAuthentication(){
         clickLink("Form Authentication");
