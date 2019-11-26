@@ -25,6 +25,12 @@ public class HomePage {
         clickLink("File Upload");
         return new FileUploadPage(driver);
     }
+    
+    public AddRemoveElementsPage clickAddRemoveElements(){
+        clickLink("Add/Remove Elements");
+        return new AddRemoveElementsPage(driver);
+    }
+
 
 
     private void clickLink(String linkText){
