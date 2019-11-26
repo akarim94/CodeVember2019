@@ -12,7 +12,7 @@ import static org.testng.Assert.*;
 public class ABTest extends Browser {
 
     @Test
-    public void testSuccessfulLogin(){
+    public void testABTesting(){
         ABTestPage abTestPage = homePage.clickABTesting();
         assertTrue(abTestPage.getabTestMsgText().contains("Also known as split testing"), "A/B Test Variation page is not opened !");
     }
