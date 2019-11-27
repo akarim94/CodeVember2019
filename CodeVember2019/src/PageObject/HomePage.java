@@ -31,7 +31,13 @@ public class HomePage {
         return new AddRemoveElementsPage(driver);
     }
 
+    public CheckBoxesPage clickCheckboxes(){
+        clickLink("Checkboxes");
+        return new CheckBoxesPage(driver);
+    }
 
+    
+    
 
     private void clickLink(String linkText){
         driver.findElement(By.linkText(linkText)).click();

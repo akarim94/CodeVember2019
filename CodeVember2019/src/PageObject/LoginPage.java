@@ -30,8 +30,7 @@ public class LoginPage extends BaseClass {
 		return by;
 	}
     
-   
-    public void setUsername(String username){
+     public void setUsername(String username){
         driver.findElement(txt_username()).sendKeys(username);
     }
 
