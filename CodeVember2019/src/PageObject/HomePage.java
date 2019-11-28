@@ -36,7 +36,10 @@ public class HomePage {
         return new CheckBoxesPage(driver);
     }
 
-    
+    public BrokenImagesPage clickBrokenImages(){
+        clickLink("Broken Images");
+        return new BrokenImagesPage(driver);
+    }
     
 
     private void clickLink(String linkText){
