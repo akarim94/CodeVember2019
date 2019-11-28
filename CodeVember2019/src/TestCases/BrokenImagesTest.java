@@ -17,7 +17,7 @@ import org.openqa.selenium.WebElement;
 public class BrokenImagesTest extends Browser {
    
     @Test 
-    public void testCheckBoxes() throws InterruptedException{
+    public void testBrokenImage() throws InterruptedException{
     	BrokenImagesPage brokenimagePage = homePage.clickBrokenImages();    	
   
     	 List<WebElement> list_image = brokenimagePage.getImages();    	 

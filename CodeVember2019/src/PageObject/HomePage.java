@@ -41,6 +41,12 @@ public class HomePage {
         return new BrokenImagesPage(driver);
     }
     
+    public InputsPage clickInputs(){
+        clickLink("Inputs");
+        return new InputsPage (driver);
+    }
+    
+    
 
     private void clickLink(String linkText){
         driver.findElement(By.linkText(linkText)).click();
