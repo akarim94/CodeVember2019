@@ -4,8 +4,6 @@ import Base.Browser;
 import org.testng.annotations.Test;
 
 import PageObject.ABTestPage;
-import PageObject.LoginPage;
-import PageObject.SecureAreaPage;
 
 import static org.testng.Assert.*;
 

@@ -46,6 +46,11 @@ public class HomePage {
         return new InputsPage (driver);
     }
     
+    public DropdownPage clickDropdown(){
+        clickLink("Dropdown");
+        return new DropdownPage (driver);
+    }
+    
     
 
     private void clickLink(String linkText){
