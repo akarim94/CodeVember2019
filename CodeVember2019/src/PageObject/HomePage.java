@@ -51,6 +51,11 @@ public class HomePage {
         return new DropdownPage (driver);
     }
     
+    public GeolocationPage clickGeolocation(){
+        clickLink("Geolocation");
+        return new GeolocationPage (driver);
+    }
+    
     
 
     private void clickLink(String linkText){
